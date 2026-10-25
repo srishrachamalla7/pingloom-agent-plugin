@@ -1,0 +1,19 @@
+{
+  "name": "pingloom",
+  "version": "0.1.0",
+  "description": "Add PingLoom notifications to your app: a skill that wires up POST /v1/notifications safely from your server.",
+  "author": {
+    "name": "Srish Rachamalla",
+    "url": "https://github.com/srishrachamalla7"
+  },
+  "repository": "https://github.com/srishrachamalla7/pingloom-agent-plugin",
+  "keywords": [
+    "pingloom",
+    "notifications",
+    "push",
+    "alerts",
+    "skills"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/srishrachamalla7/pingloom-agent-plugin"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "pingloom",
+  "owner": {
+    "name": "Srish Rachamalla",
+    "url": "https://github.com/srishrachamalla7"
+  },
+  "metadata": {
+    "description": "PingLoom plugin marketplace for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "pingloom",
+      "source": "./",
+      "description": "Teaches your coding agent to add PingLoom server-side notifications to your app: key handling, a small send helper, error handling and a verification step.",
+      "repository": "https://github.com/srishrachamalla7/pingloom-agent-plugin",
+      "keywords": [
+        "pingloom",
+        "notifications",
+        "push",
+        "alerts",
+        "skills"
+      ],
+      "homepage": "https://github.com/srishrachamalla7/pingloom-agent-plugin",
+      "license": "MIT"
+    }
+  ]
+}
